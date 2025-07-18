@@ -83,3 +83,4 @@ This task is relevant to:
 * Chatbots and customer support ticket triaging
 
 ##OUTPUT:
+<img width="1491" height="658" alt="Image" src="https://github.com/user-attachments/assets/a3b90514-abf9-4745-93fa-18006459631b" />
